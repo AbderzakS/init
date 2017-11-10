@@ -1,0 +1,42 @@
+img
+{
+	width: 150px;
+	height: 250px;
+}
+p
+{
+	text-align: justify-all;
+}
+
+body
+{
+	padding-right: auto;
+}
+
+img:hover
+{
+height: 30%;
+width: 30%;
+padding-left: auto;
+}
+
+li:hover
+{
+color: blue;
+font-style: italic;
+}
+
+a
+{
+	font-size: 15pt;
+	float: left;
+}
+
+#titre
+{
+	text-align: center;
+}
+body
+{
+	background-color: #9DA6A5;
+}
